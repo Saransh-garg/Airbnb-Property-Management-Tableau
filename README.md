@@ -18,16 +18,16 @@
 - **Amenities vs Price:** Box plots comparing listing prices for properties with and without specific amenities.
 - **Amenity Frequency:** Bar chart showing the frequency of key amenities across listings.
 ## Key Insights
-**Neighbourhood Popularity and Pricing:** High-demand areas (e.g., Manhattan, Brooklyn) have higher pricing.
+- **Neighbourhood Popularity and Pricing:** High-demand areas (e.g., Manhattan, Brooklyn) have higher pricing.
 
-**Property Type Distribution:** Entire homes and private rooms are most in demand.
+- **Property Type Distribution:** Entire homes and private rooms are most in demand.
 
-**Customer Satisfaction and Ratings:** Price minimally impacts ratings.
-Seasonality and Booking Trends:** Bookings peak in June, with a decline in winter.
+- **Customer Satisfaction and Ratings:** Price minimally impacts ratings.
+- **Seasonality and Booking Trends:** Bookings peak in June, with a decline in winter.
 
-**Host and Listing Analysis:** Superhosts with multiple listings tend to have competitive pricing.
+- **Host and Listing Analysis:** Superhosts with multiple listings tend to have competitive pricing.
 
-**Impact of Amenities on Pricing:** Amenities like Wi-Fi, air conditioning, and parking influence pricing.
+- **Impact of Amenities on Pricing:** Amenities like Wi-Fi, air conditioning, and parking influence pricing.
 ## Key Insights and Recommendations
 **Neighbourhood Popularity and Pricing:**
 - Manhattan and Brooklyn have the highest number of listings, with pricing concentrated in premium areas of Manhattan. Hosts in these areas should adjust pricing according to local trends for higher returns.
